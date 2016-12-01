@@ -1,0 +1,16 @@
+{
+  "pies": [
+    {
+      "id": "1",
+      "pie": {
+        "name": "corespring-calculator-ng15",
+        "version": "1.0.0"
+      },
+      "model": {
+        "config": {
+          "type": "basic"
+        }
+      }
+    }
+  ]
+}
