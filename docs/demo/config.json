@@ -1,11 +1,14 @@
 {
-  "pies": [
+  "langs": [
+    "en-US"
+  ],
+  "elements": {
+    "corespring-calculator-ng15": "../.."
+  },
+  "models": [
     {
       "id": "1",
-      "pie": {
-        "name": "corespring-calculator-ng15",
-        "version": "1.0.0"
-      },
+      "element": "corespring-calculator-ng15",
       "model": {
         "config": {
           "type": "basic"
