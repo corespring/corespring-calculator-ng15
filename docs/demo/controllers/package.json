@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "corespring-calculator-ng15-controller": "../node_modules/corespring-calculator-ng15/controller",
+    "corespring-choice-controller": "../node_modules/corespring-choice/controller",
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.5",
     "webpack": "2.1.0-beta.21",
