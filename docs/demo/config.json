@@ -25,12 +25,12 @@
         "E"
       ],
       "feedback": {
-        "A": "Good try. The <span>\\(\\ge\\)</span> symbol means that x should include anything to the <b xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://www.imsglobal.org/xsd/imsqti_v2p1\">right</b> of or equal to that value. The values of x as shown by the graph are to the left of 3.",
+        "A": "Good try. The \\(\\ge\\) symbol means that x should include anything to the <b>right</b> of or equal to that value. The values of x as shown by the graph are to the left of 3.",
         "B": "Correct!",
         "C": "Correct!",
-        "D": "Good try. The <span>\\(\\lt\\)</span> symbol means that x should include anything to the <b xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://www.imsglobal.org/xsd/imsqti_v2p1\">left</b> of that value. The values of x as shown by the graph are to the right of or equal to -1.",
+        "D": "Good try. The \\(\\lt\\) symbol means that x should include anything to the <b>left</b> of that value. The values of x as shown by the graph are to the right of or equal to -1.",
         "E": "Correct!",
-        "F": "Good try, but this is not correct. Since the dot at 3 is empty, the set of values of x does <b xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"http://www.imsglobal.org/xsd/imsqti_v2p1\">not</b> include 3."
+        "F": "Good try, but this is not correct. Since the dot at 3 is empty, the set of values of x does <b>not</b> include 3."
       },
       "model": {
         "prompt": "",
@@ -40,27 +40,27 @@
         "choices": [
           {
             "value": "A",
-            "label": "<span>\\(x \\ge 3\\)</span>"
+            "label": "\\(x \\ge 3\\)"
           },
           {
             "value": "B",
-            "label": "<span>\\(x \\ge -1\\)</span>"
+            "label": "\\(x \\ge -1\\)"
           },
           {
             "value": "C",
-            "label": "<span>\\(1\\)</span> is a possible solution for <span>\\(x\\)</span>"
+            "label": "\\(1\\) is a possible solution for \\(x\\)"
           },
           {
             "value": "D",
-            "label": "<span>\\(x \\lt -1\\)</span>"
+            "label": "\\(x \\lt -1\\)"
           },
           {
             "value": "E",
-            "label": "<span>\\(x \\lt 3\\)</span>"
+            "label": "\\(x \\lt 3\\)"
           },
           {
             "value": "F",
-            "label": "<span>\\(3\\)</span> is a possible solution for <span>\\(x\\)</span>"
+            "label": "\\(3\\) is a possible solution for \\(x\\)"
           }
         ]
       }
